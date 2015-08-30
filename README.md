@@ -14,4 +14,5 @@
 - [Megastore: Providing Scalable, Highly Available Storage for Interactive Services](megastore.pdf)
 
 ## Articles
+- [Implementing Replicated Logs with Paxos](implementing-replicated-logs-with-paxos.pdf)
 - [Neat Algorithms - Paxos](http://harry.me/blog/2014/12/27/neat-algorithms-paxos)
